@@ -15,11 +15,8 @@ new line test...
 new line test...  
 
 # Head1
-
 ## Head2
-
 ### Head3
-
 > 
 > 1.   This is the first list item.
 > 2.   This is the second list item.
