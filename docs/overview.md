@@ -25,8 +25,11 @@ new line test...
 
 2.  Suspendisse id sem consectetuer libero luctus adipiscing.
 ***
+
 ## Head2
+Use the `printf()` function.
 ***
+
 ### Head3
 > 
 > 1.   This is the first list item.
