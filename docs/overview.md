@@ -24,7 +24,9 @@ new line test...
     sit amet velit.
 
 2.  Suspendisse id sem consectetuer libero luctus adipiscing.
+***
 ## Head2
+***
 ### Head3
 > 
 > 1.   This is the first list item.
@@ -33,3 +35,4 @@ new line test...
 > Here's some example code:
 > 
 >     return shell_exec("echo $input | $markdown_script");
+***
