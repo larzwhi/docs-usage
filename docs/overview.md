@@ -5,9 +5,7 @@ title = "Overview"
 
 menu = "docs"
 +++
-
 Welcome to the Hugo doc server demo (Drone documentation clone). 
-
 ***
 new line test...  
 *new line test...*  
