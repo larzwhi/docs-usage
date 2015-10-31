@@ -6,7 +6,7 @@ title = "Overview"
 menu = "docs"
 +++
 
-Welcome to the doc server demo. We are in the process of migrating from `drone.readthedocs.org` to `readme.drone.io`. This section hasn't been migrated yet, so please reference the following articles:
+Welcome to the Drone-based Hugo doc server demo. 
 
 * Deploy Options: http://drone.readthedocs.org/en/latest/deployment.html
 * Publish Options: http://drone.readthedocs.org/en/latest/publish.html
