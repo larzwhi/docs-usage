@@ -6,10 +6,7 @@ title = "Overview"
 menu = "docs"
 +++
 
-Welcome to the Drone-based Hugo doc server demo. 
-
-* Deploy Options: http://drone.readthedocs.org/en/latest/deployment.html
-* Publish Options: http://drone.readthedocs.org/en/latest/publish.html
+Welcome to the Hugo doc server demo (Drone documentation clone). 
 
 ***
 new line test...  
