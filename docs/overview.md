@@ -12,6 +12,7 @@ new line test...
 *new line test...*  
 **new line test...**   
 new line test...  
+**new line test...**   
 ***
 # Head1
 1.  This is a list item with two paragraphs. Lorem ipsum dolor
