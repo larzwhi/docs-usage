@@ -44,12 +44,14 @@ Use the `printf()` function.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=w7Ft2ymGmfc" target="_blank"><img src="http://img.youtube.com/vi/w7Ft2ymGmfc/0.jpg" alt="Hugo quickstart video" width="240" height="180" border="10" /></a>
 
 
+<iframe width="1058" height="625" src="https://www.youtube.com/embed/w7Ft2ymGmfc" frameborder="0" allowfullscreen></iframe>
+
+
+   
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
-
-<iframe width="1058" height="625" src="https://www.youtube.com/embed/w7Ft2ymGmfc" frameborder="0" allowfullscreen></iframe>
 
 Colons can be used to align columns.
 
