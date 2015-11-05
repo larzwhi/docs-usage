@@ -39,6 +39,9 @@ Use the `printf()` function.
 
 
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/w7Ft2ymGmfc^C.jpg)](http://www.youtube.com/watch?v=w7Ft2ymGmfc)
+
+
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
@@ -57,3 +60,6 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+
+
