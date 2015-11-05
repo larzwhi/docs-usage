@@ -39,7 +39,7 @@ Use the `printf()` function.
 
 
 
-[![Hugo quickstart video](http://img.youtube.com/vi/w7Ft2ymGmfc.jpg/0.jpg)](http://www.youtube.com/watch?v=w7Ft2ymGmfc)
+[![Hugo quickstart video](http://img.youtube.com/vi/w7Ft2ymGmfc/0.jpg)](http://www.youtube.com/watch?v=w7Ft2ymGmfc)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=w7Ft2ymGmfc" target="_blank"><img src="http://img.youtube.com/vi/w7Ft2ymGmfc/0.jpg" alt="Hugo quickstart video" width="240" height="180" border="10" /></a>
 
