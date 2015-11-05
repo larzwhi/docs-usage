@@ -39,7 +39,7 @@ Use the `printf()` function.
 
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/w7Ft2ymGmfc^C.jpg)](http://www.youtube.com/watch?v=w7Ft2ymGmfc)
+[![Hugo quickstart video](http://img.youtube.com/vi/w7Ft2ymGmfc.jpg)](http://www.youtube.com/watch?v=w7Ft2ymGmfc)
 
 
 Inline-style: 
