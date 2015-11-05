@@ -36,3 +36,9 @@ Use the `printf()` function.
 > Here's some example code:
 > 
 >     return shell_exec("echo $input | $markdown_script");
+
+
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
